@@ -32,11 +32,11 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
         <link href="/css/theme.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="/assets/css/stack-interface.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="/assets/css/flickity.css" rel="stylesheet" type="text/css" media="all" />
+        <!-- <link href="/css/stack-interface.css" rel="stylesheet" type="text/css" media="all" /> -->
+        <link href="/css/flickity.css" rel="stylesheet" type="text/css" media="all" />
         <link href="/assets/css/iconsmind.css" rel="stylesheet" type="text/css" media="all" />
         <link href="/assets/css/jquery.steps.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="/assets/css/custom.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="/css/custom.css" rel="stylesheet" type="text/css" media="all" />
         <link href="/assets/css/favicon.ico" rel="icon">
     </head>
       <body class=" ">
